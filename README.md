@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node.js, Flask, Backend Development**
 
-- 📫 How to reach me **atharvakinikar2001@gmail.com**
+- 📫 Reach me at : **atharvakinikar2001@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvakinikar&label=Profile%20views&color=0e75b6&style=flat" alt="atharvakinikar" /> </p>
 
