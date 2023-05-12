@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome!%20&width=1100&height=400)](https://github.com/atharvakinikar)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Atharva Kinikar</h1>
 <h3 align="center">Student @<a href="https://pict.edu/">Pune Institute Of Computer Technology</a></h3>
 <h3 align="center">A passionate Software developer!</h3>
